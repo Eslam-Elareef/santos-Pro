@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tanatos_studio/static/css/main.52140f7f.css",
+    "main.js": "/tanatos_studio/static/js/main.26fc98b5.js",
+    "static/js/787.e6969140.chunk.js": "/tanatos_studio/static/js/787.e6969140.chunk.js",
+    "static/media/testimonials.jpg": "/tanatos_studio/static/media/testimonials.4384548325fd22a06eab.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/tanatos_studio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/tanatos_studio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/tanatos_studio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/header-unsplash-1080x675.jpg": "/tanatos_studio/static/media/header-unsplash-1080x675.c4b0d6892e265e6af8ed.jpg",
+    "static/media/sub.jpg": "/tanatos_studio/static/media/sub.8fb0b7b13a1712891e28.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/tanatos_studio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/tanatos_studio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/tanatos_studio/index.html",
+    "main.52140f7f.css.map": "/tanatos_studio/static/css/main.52140f7f.css.map",
+    "main.26fc98b5.js.map": "/tanatos_studio/static/js/main.26fc98b5.js.map",
+    "787.e6969140.chunk.js.map": "/tanatos_studio/static/js/787.e6969140.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52140f7f.css",
+    "static/js/main.26fc98b5.js"
+  ]
+}
